@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FavGif.CLI", "FavGif.CLI\FavGif.CLI.csproj", "{48555932-5434-4F9B-BE79-B9E4A9FB0676}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FavGif.Web", "FavGif.Web\FavGif.Web.csproj", "{B679F4B8-5301-4D0D-ABE2-1EAE3CDD7349}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FavGif.Web.UnitTests", "FavGif.Web.UnitTests\FavGif.Web.UnitTests.csproj", "{333A20C8-AE91-4D98-9219-2097B82FB2F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48555932-5434-4F9B-BE79-B9E4A9FB0676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48555932-5434-4F9B-BE79-B9E4A9FB0676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48555932-5434-4F9B-BE79-B9E4A9FB0676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48555932-5434-4F9B-BE79-B9E4A9FB0676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B679F4B8-5301-4D0D-ABE2-1EAE3CDD7349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B679F4B8-5301-4D0D-ABE2-1EAE3CDD7349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B679F4B8-5301-4D0D-ABE2-1EAE3CDD7349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B679F4B8-5301-4D0D-ABE2-1EAE3CDD7349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{333A20C8-AE91-4D98-9219-2097B82FB2F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{333A20C8-AE91-4D98-9219-2097B82FB2F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{333A20C8-AE91-4D98-9219-2097B82FB2F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{333A20C8-AE91-4D98-9219-2097B82FB2F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
