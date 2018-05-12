@@ -22,7 +22,7 @@
     "angular2-template-loader": "0.6.2",
     "aspnet-prerendering": "^3.0.1",
     "aspnet-webpack": "^2.0.3",
-    "awesome-typescript-loader": "5.0.0",
+    "awesome-typescript-loader": "^5.0.0-1",
     "bootstrap": "3.3.7",
     "css": "2.2.1",
     "css-loader": "0.28.11",
