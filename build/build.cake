@@ -49,6 +49,7 @@ Task("Restore-Packages")
 {
     NuGetRestore(_slnFile);
     _utility.NPMInstall(_apiDir);
+    _utility.NPMInstall(_webDir);
 });
 
 Task("Build")
