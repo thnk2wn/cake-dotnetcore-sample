@@ -23,7 +23,8 @@ module.exports = (env) => {
                 { test: /\.(png|jpg|jpeg|gif|svg)$/, use: 'url-loader?limit=25000' }
             ]
         },
-        plugins: [new CheckerPlugin()]
+        plugins: [new CheckerPlugin()],
+        mode: 'development'
     };
 
     const UglifyJsPlugin = require('uglifyjs-webpack-plugin');

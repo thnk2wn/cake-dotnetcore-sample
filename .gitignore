@@ -269,3 +269,6 @@ build/output
 
 # Mac Misc
 .DS_Store
+
+# Publish
+_package
